@@ -164,9 +164,9 @@ html body{
   background: radial-gradient(farthest-corner at top,
    rgba(215,248,247,.5) 0%,
    rgba(190,228,210,.5) 6.25%,
-   rgba(250,178,172,.6) 20%,
-   rgba(237, 231, 222, 1) 35%,
-   rgba(237, 231, 222, 1) 60% )
+   rgba(250,178,172,.6) 16%,
+   rgba(237, 231, 222, 1) 30%,
+   rgba(237, 231, 222, 1) 40% )
       top right/300% 100%;
       justify-content: center;
     align-items: center;
